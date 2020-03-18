@@ -46,6 +46,6 @@ class App < Sinatra::Base
 end
 
 x = 1
-y = "hi"
+n = "hi"
 
-puts x.times(y)
+print n * x
