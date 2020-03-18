@@ -48,4 +48,4 @@ end
 x = 1
 y = "hi"
 
-puts x * y
+puts x.times(y)
