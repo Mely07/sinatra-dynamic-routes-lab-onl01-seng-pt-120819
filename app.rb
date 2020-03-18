@@ -48,4 +48,4 @@ end
 x = 1
 n = "hi"
 
-puts n * x
+puts x * n
